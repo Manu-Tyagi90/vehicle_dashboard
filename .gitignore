@@ -1,0 +1,42 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# MacOS & Windows system files
+.DS_Store
+Thumbs.db
+
+# Python virtual environment config
+*.python-version
+
+# VSCode or IDE settings
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Streamlit specific cache
+.streamlit/cache/
+.streamlit/secrets.toml  # if you store credentials
+
+# Data files (optional)
+# Uncomment next line if large / sensitive datasets should not be in repo
+# data/*.csv
+# data/*.xlsx
+
+# Temporary files
+temp/
+tmp/
