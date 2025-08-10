@@ -107,7 +107,11 @@ streamlit run streamlit_app.py
 ---
 
 ## 📸 **Screenshots**
-(Add screenshots of each page here for better presentation)
+<img width="1889" height="868" alt="image" src="https://github.com/user-attachments/assets/969a6e8b-f89e-4479-85b2-beb8074fd74c" />
+<img width="1880" height="896" alt="image" src="https://github.com/user-attachments/assets/4869c764-0ae7-4de0-b5f0-69e0c7b006ca" />
+<img width="1886" height="836" alt="image" src="https://github.com/user-attachments/assets/b6ebff53-aae6-4a07-be55-df25eba1f383" />
+<img width="1889" height="912" alt="image" src="https://github.com/user-attachments/assets/d46d937b-5904-49d9-b6a1-30d98b51424e" />
+<img width="1896" height="917" alt="image" src="https://github.com/user-attachments/assets/750c7ac8-c02e-4377-8e28-350aa55c6171" />
 
 ---
 
