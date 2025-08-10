@@ -1,6 +1,15 @@
 # 🚗 Vehicle Registration Dashboard
 
-🔗 **Live Dashboard:** [Vehicle Category Analysis](https://manu-tyagi90-vehicle-dashboard.streamlit.app/Vehicle_Category)
+## 📸 **Video**
+
+
+
+https://github.com/user-attachments/assets/afd1a756-b98a-453a-86bb-e8186423efef
+
+
+
+## Click the Below Link for Live Preview
+🔗 **Live Dashboard:** [Visit Website](https://manu-tyagi90-vehicle-dashboard.streamlit.app/Vehicle_Category)
 
 An interactive **data analytics dashboard** built with [Streamlit](https://streamlit.io/) to analyze and visualize **vehicle registration data** from the VAHAN portal.
 
